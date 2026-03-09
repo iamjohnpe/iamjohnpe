@@ -1,7 +1,7 @@
 - Hi, I’m João Pedro, my username here is @iamjohnpe
-- I am from Brazil, based in the state of São Paulo in a small town called Andradina 
+- I am from Brazil, based in the state of São Paulo in the city of Mogi das Cruzes 
 -  I’m interested in learning code to become a good developer in order to help companies around the world using my skills
--  I’m currently learning HTML, CSS & Javascript
+-  I’m currently learning HTML, CSS, Javascript & Python
 -  If there is any advice or hint to share, feel free to do so, I am new in this community and in this IT universe
 - I'm open to learn new programming languages if necessary
 
